@@ -1,1 +1,1 @@
-# mid1035_mq
+# mid1035_mq device tree
